@@ -1,0 +1,38 @@
+﻿  main.cpp
+  MyGame.cpp
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(137,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(137,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(144,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(144,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(151,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(151,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(161,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(161,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(171,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(176,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(177,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(186,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(187,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(195,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(196,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(204,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(205,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(217,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(224,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(225,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(236,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(237,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(246,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(247,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(256,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(257,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(618,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(618,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(635,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(635,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(642,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(642,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(680,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\game\MyGame.cpp(680,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  game.vcxproj -> D:\Uni\SUBJECTS\Year 1\Games Programming\GFC\Practice\EnterTheSnake\Debug\game.exe
